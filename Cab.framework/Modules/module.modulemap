@@ -1,0 +1,6 @@
+framework module Cab {
+  umbrella header "Cab.h"
+
+  export *
+  module * { export * }
+}
